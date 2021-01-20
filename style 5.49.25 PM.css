@@ -1,0 +1,73 @@
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+.body{
+    background-color:whitesmoke;
+    text-align: center;
+ } 
+   
+.titlemessage{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+    justify-content: center;
+}
+.bodytitle{
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.bodyimg{
+    height:1200;
+    width:100%;
+    color:black;
+    font-size: medium;
+    font-family: fantasy;
+    text-align: space-around;
+    
+    background: url(main2.png);
+    color: white;
+    height: 600px;
+    padding-bottom: 30px;
+} 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: rgb(252, 250, 250);
+
+}
+.origami {
+    
+    border-radius: 20px;
+    
+    background-color: rgb(235, 195, 195);
+    
+    width:300px;
+    font-family: fantasy;
+    padding-top: 50px;
+    padding-right: 10px;
+
+    
+}
+.menubutoon{
+
+    text-decoration: gold;
+}
